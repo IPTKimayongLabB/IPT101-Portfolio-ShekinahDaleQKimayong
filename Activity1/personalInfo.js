@@ -29,7 +29,7 @@ console.log("Student:", personalInfo.StudentName);
 console.log("ID Number:", personalInfo.IdNumber);
 console.log("Year Level:", personalInfo.YearLevel);
 console.log("Program:", personalInfo.Program);
-console.log("Average Grade:", average); 
+console.log("Average Grade:", average.toFixed(2)); 
 
 if (average >= 98) {
     console.log("Letter Grade: A");
