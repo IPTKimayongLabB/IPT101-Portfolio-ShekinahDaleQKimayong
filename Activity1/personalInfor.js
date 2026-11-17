@@ -4,7 +4,7 @@ const personalInfo = {
     YearLevel: 2,
     Program: "Information Technology",
 
-    // nested objects
+    // nested objectss
     enrolledCourses: {
         Course1: { courseTitle: "Integrative Programming", units: 3, finalGrade: 94 },
         Course2: { courseTitle: "App Development", units: 3, finalGrade: 95 },
