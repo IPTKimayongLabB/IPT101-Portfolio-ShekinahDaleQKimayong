@@ -68,6 +68,7 @@ console.log(`Student: ${personalInfo.StudentName}`);
 console.log(`ID Number: ${personalInfo.IdNumber}`);
 console.log(`Year Level: ${personalInfo.YearLevel}`);
 console.log(`Program: ${personalInfo.Program}`);
+console.log(`Total Units: ${totalUnits}`)
 console.log(`General Weighted Average: ${personalInfo.gwa}`);
 console.log(`Letter Grade: ${personalInfo.letterGrade}`);
 
