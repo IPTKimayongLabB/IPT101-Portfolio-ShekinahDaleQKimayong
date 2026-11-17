@@ -4,7 +4,7 @@ const personalInfo = {
     YearLevel: 2,
     Program: "Information Technology",
 
-    // nested objectss
+    // nested objects
     enrolledCourses: {
         Course1: { courseTitle: "Integrative Programming", units: 3, finalGrade: 94 },
         Course2: { courseTitle: "App Development", units: 3, finalGrade: 95 },
@@ -68,7 +68,6 @@ console.log(`Student: ${personalInfo.StudentName}`);
 console.log(`ID Number: ${personalInfo.IdNumber}`);
 console.log(`Year Level: ${personalInfo.YearLevel}`);
 console.log(`Program: ${personalInfo.Program}`);
-console.log(`Total Units: ${totalUnits}`)
 console.log(`General Weighted Average: ${personalInfo.gwa}`);
 console.log(`Letter Grade: ${personalInfo.letterGrade}`);
 
