@@ -1,1 +1,1 @@
-//This folder contains the contents for the 2nd session
+//This folder contains the contents for the 2nd session, Some of the files were uploaded through different methods because of technical issues with the system, which caused the commits to go to different branches.
